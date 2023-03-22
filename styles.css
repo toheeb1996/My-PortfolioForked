@@ -40,7 +40,7 @@ section.section {
 
 .nav_head {
   text-decoration: none;
-  color: #162ae3;
+  color: red;
   font-weight: 700;
 }
 
@@ -83,7 +83,7 @@ a {
 
 .nav_link {
   transition: 2s ease;
-  color: #fff;
+  color: red;
   text-decoration: none;
 }
 
